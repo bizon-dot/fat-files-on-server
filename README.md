@@ -1,4 +1,4 @@
-# fat-files-on-server-
+# fat-files-on-server
 A shell script to search for large files in a specified directory and its subdirectories. 
 
 The script takes three parameters: the directory to search, the minimum size of files to consider, and the output file. 
